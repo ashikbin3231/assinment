@@ -21,9 +21,7 @@ body{
 .half-width img{
     width: 80%;
 }
-.half-width{
-    margin-bottom: 30px;
-}
+
 .link-button{
     text-decoration: none;
     color: white;
@@ -35,3 +33,24 @@ body{
 .top-banner{
     background-image: url(img/7.png);
 }
+.recipies-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 10px;
+    border-radius: 20px;
+
+}
+.recipies-item img{
+    width:80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+.recipies1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
