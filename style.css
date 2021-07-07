@@ -10,7 +10,7 @@ body{
 .orange{
     color: orange;
 }
-section{
+.flexible-cotaner{
     display:flex;
     margin-bottom: 100px;
 }
