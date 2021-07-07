@@ -75,11 +75,46 @@ body{
     text-align: center;
     margin-bottom: 50px;
 }
+.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #ff8800;
+    color:#fff;
+}
+#register{
+    margin: 40px;
+}
+label{
+    font-size: 18px;
+
+}
+#name{
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+#submit{
+    width: 200px;
+    padding: 7px;
+    border-radius: 3px;
+    background-image: -webkit-linear-gradient(orange,tomato);
+}
 footer{
     text-align:center;
     background-color: rgb(41, 25, 25);
     height: 133px;padding-top: 20px;
+    margin-top: 30px;
 }
+
 footer h1{
     color: rgb(129, 112, 112);
 }
